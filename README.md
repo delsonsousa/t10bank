@@ -12,5 +12,4 @@ Após clonar o repositório para a máquina, entre na pasta do projeto digitando
 
 #### yarn start
 
-Execute o código acima para abrir o App em modo de desenvolvimento.
-Caso o browser não abra automaticamente, acesse o link a seguir http://localhost:3000 para visualizar em algum browser qualquer.
+Execute o código acima para abrir o App em modo de desenvolvimento. Caso o browser não abra automaticamente, acesse o link a seguir http://localhost:3000 para visualizar em algum browser qualquer.
