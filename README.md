@@ -8,9 +8,9 @@ Para rodar a aplicação é necessário clonar o projeto para a máquina escolhi
 
 ### code .
 
-Após clonar o repositório para a máquina, digite "clone ." (como destacado acima) para abrir o vscode com todo o código utilizado no desenvolvimento.
+Após clonar o repositório para a máquina, entre na pasta do projeto digitando "cd t10bank" e digite "clone ." (como destacado acima) para abrir o vscode com todo o código utilizado no desenvolvimento.
 
 #### yarn start
 
-Execute o App em modo de desenvolvimento.
+Execute o código acima para abrir o App em modo de desenvolvimento.
 Caso o browser não abra automaticamente, acesse o link a seguir http://localhost:3000 para visualizar em algum browser qualquer.
